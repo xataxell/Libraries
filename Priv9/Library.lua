@@ -2138,7 +2138,7 @@
                     ignore_key = options.ignore or false, 
 
                     key = options.key or nil, 
-                    mode = options.mode or "toggle",
+                    mode = options.mode or "Toggle",
                     active = options.default or false, 
 
                     hold_instances = {},
