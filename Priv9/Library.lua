@@ -2543,5 +2543,5 @@
         -- 
     -- 
 -- 
-getgenv().themes = themes
-return library, notifications
+
+return library, notifications, themes
