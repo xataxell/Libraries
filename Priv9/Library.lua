@@ -81,7 +81,7 @@
         gui; 
     }
     
-    getgenv().themes = {
+    local themes = {
         preset = {
             outline = rgb(10, 10, 10),
             inline = rgb(35, 35, 35),
@@ -2543,5 +2543,5 @@
         -- 
     -- 
 -- 
-
+getgenv().themes = themes
 return library, notifications
