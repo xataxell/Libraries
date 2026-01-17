@@ -81,7 +81,7 @@
         gui; 
     }
     
-    local themes = {
+    getgenv().themes = {
         preset = {
             outline = rgb(10, 10, 10),
             inline = rgb(35, 35, 35),
