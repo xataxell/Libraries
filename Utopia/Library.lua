@@ -330,14 +330,14 @@ local Library do
         ["Default"] = {
             ["Window Background"] = FromRGB(43, 43, 43),
             ["Inline"] = FromRGB(12, 12, 12),
-            ["Text"] = FromRGB(180, 180, 180),
+            ["Text"] = FromRGB(225,225,225),
             ["Section Background"] = FromRGB(19, 19, 19),
             ["Element"] = FromRGB(63, 63, 63),
-            ["Border"] = FromRGB(68, 68, 68),
+            ["Border"] = FromRGB(50,50,50),
             ["Outline"] = FromRGB(0, 0, 0),
-            ["Dark Liner"] = FromRGB(56, 56, 56),
-            ["Risky"] = FromRGB(255, 50, 50),
-            ["Accent"] = FromRGB(31, 226, 130)
+            ["Dark Liner"] = FromRGB(35,35,35),
+            ["Risky"] = FromRGB(255, 80,80),
+            ["Accent"] = FromRGB(201,35,35)
         },
 
         ["Bitchbot"] = {
