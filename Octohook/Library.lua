@@ -4968,6 +4968,10 @@
                     Notification:NotificationButton({Name = "Make another", Callback = function()
                     end})
                 end})
+				Section:Button({Name = "Unload", Callback = function()
+                    Library:Unload()
+					Esp:Unload()
+                end})
             -- 
         end
     --
